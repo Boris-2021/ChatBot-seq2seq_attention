@@ -5,3 +5,7 @@ A NLP apply, base on seq2seq and attention.
 部署过程：
   python 3.5 --3.7都可以。
   其他依赖参考request.txt
+  
+  可以自己训练模型，不想训练的也可以用已经训练好的模型。
+  已经训练好的模型下载链接：
+     https://share.weiyun.com/5Yb4vI4
