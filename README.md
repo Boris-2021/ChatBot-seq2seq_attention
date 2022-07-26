@@ -8,4 +8,5 @@ A NLP apply, base on seq2seq and attention.
   
   可以自己训练模型，不想训练的也可以用已经训练好的模型。
   已经训练好的模型下载链接：
-     https://share.weiyun.com/5Yb4vI4
+    链接：https://pan.baidu.com/s/1GO9K3m42y_vUOfy7inNe0Q?pwd=83fk 
+    提取码：83fk 
